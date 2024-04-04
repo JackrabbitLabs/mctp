@@ -63,7 +63,7 @@
 #include <timeutils.h>
 #include <ptrqueue.h>
 
-#include "mctp.h"
+#include "main.h"
 
 /* MACROS ====================================================================*/
 
